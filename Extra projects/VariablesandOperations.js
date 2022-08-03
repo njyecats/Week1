@@ -18,7 +18,7 @@ let customerFirstName = "Sally";
 let streetAddress = "1234 W Easy St";
 
 //print all variables to the console
-console.log(availablePlaneSeats);
+console.log("Sally at 1234 W Easy Dr", typeof middleInitial);
 
 
 
